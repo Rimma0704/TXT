@@ -1,15 +1,3 @@
-favorite_movie": "Cloud Paradise",
-"favorite_series": "Friends",
-"favorite_food": "grape",
-"favourite_season": "summer",
-"cuntry": "Switzerla[D[D[D[D[D[D[D[D[3~[3~[3~favorite_movie": "Cloud Paradise",
-"favorite_series": "Friends",
-"favorite_food": "grape",
-"favourite_season": "summer",
-"cuntry":  Switzerla
-[C[A[A[C[C[C[C[C[C[C[C[A[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[A[A[A"cuntry":  Switzerla
-[A[C[C[C[C[C[C[C[C[C[C[C[C[Cy":  Switzerla
-[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
 Любимый фильм: "Облако-рай".
 Любимый сериал: "Друзья".
 Любимая еда: виноград.
